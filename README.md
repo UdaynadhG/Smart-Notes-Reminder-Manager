@@ -1,7 +1,7 @@
 
 # Smart Notes Reminder Manager
 
-This Note taking and Reminders management is made up on top of MERN Stack. It Supports both web and mobile. The main objective of the project is to manage and remind the tedious works of users. It helps to plan tasks in organized way. It can be free, secure and reliable for storing important information.
+This Smart Notes Reminder Manager is made up on top of MERN Stack. It Supports both web and mobile. The main objective of the project is to manage and remind the tedious works of users. It helps to plan tasks in organized way. It can be free, secure and reliable for storing important information.
 
 ### Technology Stack Used:
 
@@ -14,7 +14,7 @@ This Note taking and Reminders management is made up on top of MERN Stack. It Su
 #### Database
 * MongoDB
 
-### Features of Note Taking and Reminders Management:
+### Features of Smart Notes Reminder Manager:
 
 * Sign up
 * Login
@@ -30,8 +30,5 @@ This Note taking and Reminders management is made up on top of MERN Stack. It Su
 * Automatic logout on token expiration
 * Shows warning on no Internet Connection
 
-### Project Details:
-* Backend developed using Node JS,Express JS and deployed to Heroku and for database used mongoDB Atlas cloud service
-* Frontend developed using ReactJS and deployed to Netlify platform.
 
 
