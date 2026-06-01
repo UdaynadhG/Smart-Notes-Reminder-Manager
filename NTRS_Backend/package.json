@@ -1,0 +1,33 @@
+{
+  "name": "ntrs_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-app-generator": "^1.0.6",
+    "express-pino-logger": "^6.0.0",
+    "filereader": "^0.10.3",
+    "fs": "*",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.5",
+    "mongoose-auto-increment": "^5.0.1",
+    "multer": "^1.4.2",
+    "node-cron": "^3.0.0",
+    "node-schedule": "^2.0.0",
+    "randomstring": "^1.2.1",
+    "twilio": "^3.62.0"
+  }
+}
