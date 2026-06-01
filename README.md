@@ -33,14 +33,5 @@ This Note taking and Reminders management is made up on top of MERN Stack. It Su
 ### Project Details:
 * Backend developed using Node JS,Express JS and deployed to Heroku and for database used mongoDB Atlas cloud service
 * Frontend developed using ReactJS and deployed to Netlify platform.
-* Documentation link: https://drive.google.com/file/d/1yNihJvC8aHSPFiW98R2J1iLnUVM-xeil/view?usp=sharing
 
-### Live Demo:
-
-https://ntrs-frontend.netlify.app/#/
-
-### Our Team:
-* Laya Mandugula
-* Rama Lakshmi Pasupuleti
-* Shivani Ganimukkula
 
