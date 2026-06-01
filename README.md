@@ -1,5 +1,5 @@
 
-# NOTE TAKING AND REMINDERS MANAGEMENT
+# Smart Notes Reminder Manager
 
 This Note taking and Reminders management is made up on top of MERN Stack. It Supports both web and mobile. The main objective of the project is to manage and remind the tedious works of users. It helps to plan tasks in organized way. It can be free, secure and reliable for storing important information.
 
